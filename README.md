@@ -1,5 +1,3 @@
-# HoomanAI.github.io
-AI Research | ML Development | Digital Twins
 # Hooman Razavi
 
 Welcome to my personal academic website.
@@ -12,6 +10,15 @@ I am a PhD Candidate at the University of Ottawa, conducting research in:
 - Digital Twins
 - Computer Vision
 - Multi-objective Optimization
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="research.html">Research</a>
+  <a href="projects.html">Projects</a>
+  <a href="publications.html">Publications</a>
+  <a href="cv.html">CV</a>
+  <a href="contact.html">Contact</a>
+</nav>
 
 ## Website
 
