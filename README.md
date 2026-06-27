@@ -22,7 +22,7 @@ I am a PhD Candidate at the University of Ottawa, conducting research in:
 
 ## Website
 
-🌐 https://yourusername.github.io
+🌐 [https://yourusername.github.io](https://hoomanai.github.io/)
 
 ## Research Interests
 
