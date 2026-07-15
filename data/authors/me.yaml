@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
+  display: Henry
+  given: Hooman
+  family: Razavi
   pronunciation: Chien Shiung Wu
   pronouns: she/her
 status:
