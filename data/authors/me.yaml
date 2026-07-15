@@ -5,8 +5,8 @@ name:
   display: Henry
   given: Hooman
   family: Razavi
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  pronunciation: Hooman Razavi
+  pronouns: he/him
 status:
   icon: "☕️"
 role: Computer Science Researcher | Applied AI Developer | Tech-startup Lover
@@ -15,7 +15,7 @@ bio: >
   teams on edge computing, deep sea data center architecture, and hivemind
   optimization.
 affiliations:
-  - name: GenCoin
+  - name: Unoversity of Ottawa
     url: https://www.example.com/
 links:
   - icon: at-symbol
