@@ -32,15 +32,20 @@ links:
 education:
   - degree: PhD Civil Engineering
     institution: University of Ottawa
-    start: 2025
-    end: 2028
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - degree: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - degree: PhD Engineering Science
+    institution: Tecnologico de Monterrey
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: "Read Thesis"
+      url: "https://example.com"    
+  - degree: MSc Artificial Intelligence
+    institution: K. N. Toosi University of Technology
     start: 2016-01-01
     end: 2020-12-31
     summary: |
