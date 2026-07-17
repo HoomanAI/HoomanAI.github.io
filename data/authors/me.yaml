@@ -87,28 +87,28 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: Python
-        level: 4
-      - label: RStudio
+      - label: Research and Technology Development
         level: 5
-      - label: PyTorch
-        level: 2
+      - label: Python 
+        level: 4
+      - label: Machine Vision
+        level: 3
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
       - label: Hiking
-        level: 3
-      - label: Cats
         level: 5
-      - label: Photography
+      - label: Tennis
         level: 4
+      - label: Swimming
+        level: 3
 languages:
   - name: English
     level: 5
-  - name: Chinese
-    level: 4
-  - name: Portuguese
+  - name: Persian
+    level: 5
+  - name: Español
     level: 1
 awards:
   - title: Neural Networks and Deep Learning
