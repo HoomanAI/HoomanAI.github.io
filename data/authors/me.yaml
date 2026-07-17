@@ -30,10 +30,10 @@ links:
   - icon: brands/instagram
     url: https://www.instagram.com/
 education:
-  - degree: PhD Artificial Intelligence
-    institution: Stanford University
-    start: 2016-01-01
-    end: 2020-12-31
+  - degree: PhD Civil Engineering
+    institution: University of Ottawa
+    start: 2025
+    end: 2028
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
