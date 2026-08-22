@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: Razavi Hooman
 is_owner: true
 name:
-  display: Henry
-  given: Hooman
-  family: Razavi
+  display: H-R
+  given: HOXTON
+  family: ROOX
   pronunciation: Hooman Razavi
   pronouns: he/him
 status:
